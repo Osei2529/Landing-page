@@ -1,4 +1,4 @@
-#Landing Page
+# Landing Page
 
 A landing page built from a provided design as part of The Odin Project's Foundations course. This project practices building a full page layout from scratch using Flexbox, working from an image and a color/font specification rather than a guided step-by-step exercise.
 
